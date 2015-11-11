@@ -1,6 +1,6 @@
 # Socket server in python using select function
 
-import socketserver as socket
+import socket
 import select
 
 if __name__ == "__main__":
